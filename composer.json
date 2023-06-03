@@ -3,7 +3,6 @@
     "description": "PHP Lorem Ipsum generator",
     "keywords": ["PHP", "lorem", "ipsum", "generator"],
     "type": "library",
-    "version": "1.0.0",
     "homepage": "https://github.com/diolan12/php-lipsum",
     "license": "MIT",
     "authors": [
